@@ -156,6 +156,7 @@ section {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .steps {
@@ -167,7 +168,7 @@ section {
     color: #024e76;
     border-bottom: 3px solid;
     padding-bottom: 20px;
-    text-align:center;
+    text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
 }
@@ -287,6 +288,6 @@ section {
     color: #fce138;
 }
 
-.flex-row{
+.flex-row {
     display: flex;
 }
